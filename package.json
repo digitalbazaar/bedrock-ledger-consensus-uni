@@ -21,7 +21,7 @@
   },
   "peerDependencies": {
     "bedrock": "^1.2.4",
-    "bedrock-ledger": "^0.3.5"
+    "bedrock-ledger-node": "^0.3.5"
   },
   "engines": {
     "node": ">=6"

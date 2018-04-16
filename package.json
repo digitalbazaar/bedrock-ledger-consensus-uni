@@ -22,7 +22,9 @@
   },
   "peerDependencies": {
     "bedrock": "^1.8.0",
-    "bedrock-ledger-node": "digitalbazaar/bedrock-ledger-node#master"
+    "bedrock-ledger-context": "^1.0.0",
+    "bedrock-ledger-node": "digitalbazaar/bedrock-ledger-node#master",
+    "bedrock-mongodb": "^5.0.0"
   },
   "engines": {
     "node": ">=6"

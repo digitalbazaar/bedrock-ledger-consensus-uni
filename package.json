@@ -17,15 +17,14 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-uni",
   "dependencies": {
-    "async": "^2.4.0"
   },
   "peerDependencies": {
     "bedrock": "^1.8.0",
     "bedrock-ledger-context": "^1.0.0",
-    "bedrock-ledger-node": "digitalbazaar/bedrock-ledger-node#master",
+    "bedrock-ledger-node": "digitalbazaar/bedrock-ledger-node#promises",
     "bedrock-mongodb": "^5.0.0"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-consensus-uni",
-  "version": "0.0.1-0",
+  "version": "1.0.0",
   "description": "Implementation of a Web Ledger Consensus Protocol.",
   "main": "lib",
   "repository": {
@@ -16,8 +16,7 @@
     "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-uni/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-uni",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "bedrock": "^1.8.0",
     "bedrock-ledger-context": "^1.0.0",

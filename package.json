@@ -19,8 +19,8 @@
   "dependencies": {},
   "peerDependencies": {
     "bedrock": "^1.8.0",
-    "bedrock-ledger-context": "^1.0.0",
-    "bedrock-ledger-node": "^1.0.0",
+    "bedrock-ledger-context": "^2.0.0",
+    "bedrock-ledger-node": "1.x - 2.x",
     "bedrock-mongodb": "^5.0.0"
   },
   "engines": {
